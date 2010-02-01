@@ -1,6 +1,5 @@
 package ImageDB::Schema;
 use base 'DBIx::Class::Schema::Loader';
-use autobox::String::Inflector;
 use ImageDB::Utils;
 $ENV{DBIC_TRACE} = 1;
 
