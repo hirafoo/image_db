@@ -1,0 +1,3 @@
+dsn: dbi:mysql:image_db
+username: root
+password: ~
